@@ -1,0 +1,57 @@
+---
+title: "Syntax Processing properties of generic cortical circuits"
+event: "BCCN Freiburg Conference: *Dynamics of neuronal systems*"
+event_url: https://www.bcf.uni-freiburg.de/events/conferences-workshops/20130318-bccn2013
+
+location: Bernstein Center Freiburg, Germany
+address:
+  street: ""
+  city: ""
+  region: ""
+  postcode: ""
+  country: ""
+
+summary: ""
+abstract: "We adopt methods/formalisms from theoretical linguistics
+(developed to study rule-like compositional behavior).
+Artificial Grammar Learning (AGL) paradigms study the
+nature of syntactic processing and implicit sequence learning.
+Humans acquire complex structural dependencies by mere exposure. We investigate to which extent generic cortical circuits (excitable reservoirs of spiking neurons) can support formally explicit symbolic computations."
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2013-03-18"
+date_end: ""
+all_day: true
+
+# Schedule page publish date (NOT talk date).
+publishDate: "2018-05-05T00:00:00Z"
+
+authors: 
+  - admin
+tags: []
+
+# Is this a featured talk? (true/false)
+featured: false
+
+image:
+  caption: ""
+  focal_point: Right
+
+links:
+- icon: object-group
+  icon_pack: fas
+  name: Poster
+  url: "https://doi.org/10.6084/m9.figshare.3496730.v1"
+  
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+
+# Enable math on this page?
+math: true
+---
+
