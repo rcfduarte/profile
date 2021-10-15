@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "European Institute for Theoretical Neuroscience (EITN), Paris, France"
+  organization_url = "https://www.eitn.org/"
+  title = "Fall School in Computational Neuroscience"
+  url = "https://www.eitn.org/index.php/calendar-event/eventdetail/737/-/eitn-fall-school"
+  certificate_url = ""
+  date_start = "2021-09-15"
+  date_end = "2021-09-24"
+  description = """ 
+  Lecture
+  """
 
 [[item]]
   organization = "Organization for Computational Neuroscience (OCNS), Online"

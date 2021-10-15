@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: true
-font: 'minimal'
+font: ''
 font_size: S
 
 # SEO
@@ -26,13 +26,13 @@ address:
   street: Thomas van Aquinostraat 4
   city: Nijmegen
   # region: CA
-  postcode: '6525 GD'
+  postcode: 6525 GD
   country: Netherlands
   country_code: NL
 coordinates:
-  latitude: '51.81917297113252'
-  longitude: '5.861992029606369'
-directions: Office 2.366
+  latitude: 51.81917297113252
+  longitude: 5.861992029606369
+directions: Maria Montessouri building, office 2.366
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
@@ -139,7 +139,7 @@ search:
     app_id: ''
     api_key: ''
     index_name: ''
-    show_logo: false
+    show_logo: true
 map:
   provider: ''
   api_key: ''

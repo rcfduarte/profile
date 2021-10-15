@@ -29,9 +29,9 @@ This profile was created primarily to centralize my digital footprint and organi
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "#FAFAFA"  # An HTML color value.
   overlay_img = "headers/raster.png"  # Name of image in `static/img/`.
-  overlay_filter = 0.05  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.9  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -46,7 +46,7 @@ This profile was created primarily to centralize my digital footprint and organi
   content = """  """
   align = "left"
 
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "#FAFAFA"  # An HTML color value.
   overlay_img = "headers/raster.png"  # Name of image in `static/img/`.
-  overlay_filter = 0.05  # Darken the image. Value in range 0-1.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 +++

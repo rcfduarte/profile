@@ -13,9 +13,9 @@ superuser: true
 role: Assistant Professor of Cognitive Artificial Intelligence
 
 # Organizations/Affiliations
-# organizations:
-# - name: Institute for Neuroscience and Medicine (INM-6), Institute for Advanced Simulation (IAS-6), JARA-BRAIN ... Max-Plank Institute for Psycholinguistics
-#   url: ""
+organizations:
+- name: Donders Institute for Brain, Cognition and Behavior, Radboud University
+  url: "https://www.ru.nl/english/people/farinha-duarte-r/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -23,16 +23,16 @@ bio: ""
 interests:
 - Computational Neuroscience
 - Cognitive Science
+- Artificial Intelligence
 - Neurobiology and Neurophysiology
 - Synaptic Biophysics and Dynamics
-- Reservoir Computing
 
 education:
   courses:
   - course: "Dr. rer. Nat. (PhD) in Computational Neuroscience"
-    institution: "Erasmus Mundus joint degree (EuroSPIN program): 
+    institution: "Erasmus Mundus joint degree (EuroSPIN): 
 
-    Albert-Ludwigs-Universität Freiburg and University of Edinburgh"
+    Albert-Ludwigs-Universität Freiburg & University of Edinburgh"
     year: 2018
   - course: MSc in Cognitive Neuroscience and Neuropsychology
     institution: University of Algarve
@@ -71,9 +71,9 @@ social:
 #  icon_pack: ai
 #  link: 
 
-- icon: mendeley
-  icon_pack: ai
-  link: https://www.mendeley.com/profiles/renato-duarte/
+# - icon: mendeley
+#   icon_pack: ai
+#   link: https://www.mendeley.com/profiles/renato-duarte/
 
 #- icon: figshare
 #  icon_pack: ai
@@ -123,6 +123,4 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher in computational cognitive neuroscience, passionately curious about everything *neuro-*. I am deeply invested in bridging the gaps between mind and brain and clarifying the biophysical underpinnings of human cognition and behavior, i.e. *how the brain computes the mind*. I live comfortably with the notion that "we are nothing but a pack of neurons”, which I consider to be far from a reductionist view and I firmly believe that a thorough understanding of the underlying processes is critical to clarify the broader questions of *who we are* and *how we work*. 
-
-My research focuses on computation in neocortical systems, with a particular focus (and personal interest) on the functional impact of synaptic properties. I argue for an integrative approach where cognitive and biophysical constraints are combined at different levels to shed light on the nature of neural computation. A systematic decomposition of cognitive and behavioral processes into their atomic, algorithmic components is strictly required but, for any such sub-component, the space of models that can possibly account for it is enormous. Constraints on this model space ought to be applied based on neurobiology, i.e. the best way to solve these problems, I argue, is to use the detailed biology of the brain (and its place in the natural world) as a guide and systematically decompose the system into reusable components and operating principles that can be causally linked to relevant computational aspects in the relevant cognitive domains. Ideally, we wish to illustrate such principles in a way that is generalizable given that the design of the system suggests a certain degree of uniformity and repeatability. In the same way that the structural, anatomophysiological and biochemical organization of the neocortex abides by underlying general principles, it is reasonable to conjecture that so does its function. As such, studying the computational properties of realistic models involved in interactive processing contexts may bring further insights to a general understanding of brain function.
+I am a research scientist and lecturer in the domain of cognitive, neuro-inspired AI. I have always been fascinated by the brain and how its complex electrochemical circuitry gives rise to cognition and behavior. Providing a meaningful contribution to our understanding of _how the brain computes the mind_ is thus one of my most ambitious life goals and a pursuit I feel very passionate about. My research aims to unravel fundamental computational principles and mechanisms of neural information processing (with a particular emphasis on the mammalian neocortex) and to exploit them to develop adaptive intelligent systems. I am particularly interested in sequential rule learning and the acquisition and representation of temporal structure across different scales in modular, hierarchical systems.

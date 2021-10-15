@@ -19,7 +19,30 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "(remote) Allen Institute for Brain Science, Seattle, Washington, USA"
+  organization = "(online) École polytechnique fédérale de Lausanne"
+  organization_url = "https://memento.epfl.ch/"
+  title = "EPFL Neuro Symposium: *Surprise, Curiosity and Reward: From Neuroscience to AI*"
+  url = "https://memento.epfl.ch/event/epfl-neuro-symposium-surprise-curiosity-and-reward/"
+  certificate_url = ""
+  date_start = "2021-02-08"
+  date_end = "2021-02-09"
+  description = """ 
+  """
+
+[[item]]
+  organization = "(online) Forschungszentrum Jülich"
+  organization_url = "https://bigbrainproject.org/hiball.html"
+  title = "HiBALL Winter School: BigBrain Project"
+  url = "https://bigbrainproject.org/winter-school.html"
+  certificate_url = ""
+  date_start = "2021-02-03"
+  date_end = "2021-02-04"
+  description = """ 
+  ![](https://bigbrainproject.org/images/logo-hiball.png|width=100px)
+  """
+
+[[item]]
+  organization = "(online) Allen Institute for Brain Science, Seattle, Washington, USA"
   organization_url = "https://alleninstitute.org/what-we-do/brain-science/"
   title = "AI Modelling workshop: *Towards multipurpose models of cortical circuits*"
   url = "https://alleninstitute.org/what-we-do/brain-science/events-training/allen-institute-modeling-workshop-2020/"

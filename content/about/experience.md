@@ -3,10 +3,10 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
 title = "Positions"
-subtitle = "Research Experience"
+subtitle = "Scientific Appointments"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -17,6 +17,28 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "Assistant Professor"
+  company = """*Artificial Cognitive Systems* 
+
+  Donders Institute for Brain, Cognition and Behaviour"""
+  company_url = "https://www.ru.nl/english/people/farinha-duarte-r/"
+  location = "Nijmegen, Netherlands"
+  date_start = "2021-10-01"
+  date_end = ""
+  description = """  """
+
+[[experience]]
+  title = "Guest Researcher"
+  company = """*Neurobiology of Language* 
+
+  Max Planck Institute for Psycholinguistics"""
+  company_url = "https://www.mpi.nl/department/neurobiology-language/4"
+  location = "Nijmegen, Netherlands"
+  date_start = "2019-01-01"
+  date_end = ""
+  description = """  """
+
 [[experience]]
   title = "Postdoctoral Researcher"
   company = """*Computation in Neural Circuits*
@@ -31,19 +53,8 @@ date_format = "Jan 2006"
   company_url = "https://www.fz-juelich.de/inm/inm-6/EN/Forschung/Morrison/artikel.html"
   location = "Jülich, Germany"
   date_start = "2018-06-01"
-  date_end = ""
+  date_end = "2021-09-30"
   description = """   """
-
-[[experience]]
-  title = "Guest Researcher"
-  company = """*Neurobiology of Language* 
-
-  Max Planck Institute for Psycholinguistics"""
-  company_url = "https://www.mpi.nl/department/neurobiology-language/4"
-  location = "Nijmegen, Netherlands"
-  date_start = "2019-01-01"
-  date_end = ""
-  description = """  """
 
 [[experience]]
   title = "PhD Researcher"
