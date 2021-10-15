@@ -1,7 +1,7 @@
 ---
 title: "Self-organized sequence processing in recurrent neural networks with multiple interacting plasticity mechanisms"
 authors:
-- admin
+- Renato Duarte
 date: "2011-09-01T00:00:00Z"
 doi: ""
 

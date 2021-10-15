@@ -33,6 +33,7 @@ coordinates:
   latitude: 51.81917297113252
   longitude: 5.861992029606369
 directions: Maria Montessouri building, office 2.366
+
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
@@ -141,8 +142,8 @@ search:
     index_name: ''
     show_logo: true
 map:
-  provider: ''
-  api_key: ''
+  provider: 'www.google.com/maps'
+  api_key: 'AIzaSyAinQj4O_t_RrQRF2xDNBj2Png0jERffIU'
   zoom: 15
 marketing:
   google_analytics: 'UA-150912235-2'

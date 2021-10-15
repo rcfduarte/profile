@@ -3,7 +3,7 @@ title: "Liquid computing on and off the edge of chaos with a striatal microcircu
 subtitle: "Frontiers in Computational Neuroscience"
 authors:
 - Carlos Toledo-Suárez
-- admin
+- Renato Duarte
 - Abigail Morrison
 date: "2014-11-21T00:00:00Z"
 doi: "10.3389/fncom.2014.00130"

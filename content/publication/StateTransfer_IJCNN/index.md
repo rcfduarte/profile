@@ -3,7 +3,7 @@ title: "Transferring state representations in hierarchical spiking neural networ
 subtitle: "Proceedings of the International Joint Conference on Neural Networks 2018"
 authors:
 - Barna Zajzon
-- admin
+- Renato Duarte
 - Abigail Morrison
 date: "2018-10-15T00:00:00Z"
 doi: "10.1109/IJCNN.2018.8489135"

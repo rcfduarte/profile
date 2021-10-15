@@ -5,7 +5,7 @@ authors:
 - Barna Zajzon
 - Sepehr Mahmoudian
 - Abigail Morrison
-- admin
+- Renato Duarte
 date: "2019-12-05T00:00:00Z"
 doi: "10.3389/fncom.2019.00079"
 

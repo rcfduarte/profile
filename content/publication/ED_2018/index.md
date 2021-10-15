@@ -2,7 +2,7 @@
 title: "Encoding symbolic sequences with spiking neural reservoirs"
 subtitle: "Proceedings of the International Joint Conference on Neural Networks 2018"
 authors:
-- admin
+- Renato Duarte
 - Marvin Uhlmann
 - Dick van den Broek
 - Hartmut Fitz

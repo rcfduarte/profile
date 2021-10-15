@@ -2,7 +2,7 @@
 title: "Leveraging heterogeneity for neural computation with fading memory in layer 2/3 cortical microcircuits"
 subtitle: "PLoS Computational Biology"
 authors:
-- admin
+- Renato Duarte
 - Abigail Morrison
 date: "2019-04-01T00:00:00Z"
 doi: "10.1371/journal.pcbi.1006781"

@@ -1,7 +1,7 @@
 ---
 title: "Expansion and State-Dependent Variability along Sensory Processing Streams"
 authors:
-- admin
+- Renato Duarte
 date: "2015-05-13T00:00:00Z"
 doi: "10.1523/JNEUROSCI.0874-15.2015"
 

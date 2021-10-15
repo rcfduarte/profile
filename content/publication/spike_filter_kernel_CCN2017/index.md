@@ -4,7 +4,7 @@ subtitle: "Computational Cognitive Neuroscience 2017"
 authors:
 - Dick van den Broek
 - Marvin Uhlmann
-- admin
+- Renato Duarte
 - Hartmut Fitz
 - Peter Hagoort
 - Karl Magnus Petersson

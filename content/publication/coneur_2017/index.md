@@ -1,7 +1,7 @@
 ---
 title: "Synaptic patterning and the timescales of cortical dynamics"
 authors:
-- admin
+- Renato Duarte
 - Alexander Seeholzer
 - Karl Zilles
 - Abigail Morrison

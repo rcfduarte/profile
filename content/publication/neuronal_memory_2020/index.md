@@ -5,7 +5,7 @@ authors:
 - Hartmut Fitz
 - Marvin Uhlmann
 - Dick van den Broek
-- admin
+- Renato Duarte
 - Peter Hagoort
 - Karl Magnus Petersson
 date: "2020-08-25T00:00:00Z"

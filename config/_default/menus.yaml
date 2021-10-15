@@ -17,7 +17,7 @@ main:
     url: "contact/"
     weight: 40
   - name: "CV"
-    url: "files/CV_Final.pdf"
+    url: "files/CV.pdf"
     weight: 50
   # - name: Contact
   #   url: '#contact'

@@ -18,3 +18,19 @@ autolink = true
 email_form = 0
 +++
 
+<div id="map" style="width:400px;height:400px;background:yellow"></div>
+<script>
+function myMap() {
+    var uluru = {lat: 51.81917297113252, lng: 5.861992029606369};
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 12,
+      center: uluru
+    });
+    var marker = new google.maps.Marker({
+      position: uluru,
+      map: map
+    });
+}
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAinQj4O_t_RrQRF2xDNBj2Png0jERffIU&callback=myMap"></script>
+

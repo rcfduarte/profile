@@ -3,7 +3,7 @@ title: "Closed loop interactions between spiking neural network and robotic simu
 authors:
 - Philipp Weidel
 - Mikael Djurfeldt
-- admin
+- Renato Duarte
 - Abigail Morrison
 date: "2016-08-03T00:00:00Z"
 doi: "10.3389/fninf.2016.00031"

@@ -2,7 +2,7 @@
 title: "Dynamic stability of sequential stimulus representations in adapting neuronal networks"
 subtitle: "Frontiers in Computational Neuroscience"
 authors:
-- admin
+- Renato Duarte
 - Abigail Morrison
 date: "2014-10-22T00:00:00Z"
 doi: "10.3389/fncom.2014.00124"

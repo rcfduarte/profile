@@ -1,7 +1,7 @@
 ---
 title: "State-dependent processing in Spiking Neural Networks"
 authors:
-- admin
+- Renato Duarte
 date: "2017-12-17T00:00:00Z"
 doi: ""
 

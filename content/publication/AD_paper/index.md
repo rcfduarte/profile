@@ -3,7 +3,7 @@ title: "Firing rate homeostasis counteracts changes in stability of recurrent ne
 authors:
 - Claudia Bachmann
 - Tom Tetzlaff
-- admin
+- Renato Duarte
 - Abigail Morrison
 date: "2020-08-25T00:00:00Z"
 doi: "10.1371/journal.pcbi.1007790"

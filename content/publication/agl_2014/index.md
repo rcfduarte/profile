@@ -1,7 +1,7 @@
 ---
 title: "Self-Organized Artificial Grammar Learning in Spiking Neural Networks"
 authors:
-- admin
+- Renato Duarte
 - Peggy Seriès
 - Abigail Morrison
 date: "2014-07-01T00:00:00Z"
