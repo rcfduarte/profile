@@ -39,7 +39,7 @@ tags:
 - Reservoir computing
 - Balanced random networks
 
-featured: true
+featured: false
 
 links:
 - icon: file-pdf

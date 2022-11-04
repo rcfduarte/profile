@@ -32,7 +32,7 @@ tags:
 - Information transfer
 - Stimulus representation
 
-featured: true
+featured: false
 
 links:
 - icon: biorxiv
